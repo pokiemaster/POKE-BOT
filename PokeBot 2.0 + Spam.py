@@ -1010,7 +1010,7 @@ async def on_message(message):
 
 
 #User token, Please remove "bot=False" if using a bot account token
-client.run("**************", bot=False)
+client.run("OTc1NDU2NzE2MjgyMDM2MzE1.G8JeWp.hKDb0LrmiJw0vPimyM-OFzfJQfpVown_mGsDe0", bot=False)
 
 
     ###MSG CONTENT READER REFRENCE
