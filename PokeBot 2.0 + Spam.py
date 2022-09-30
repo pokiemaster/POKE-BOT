@@ -2,7 +2,7 @@
 #Lists of all 809 Pokemon sorted in each list according to Char count
 #Please add any missing Names if found
 
-ID = 00000000000000 #Please include channel id 
+ID = 1023715702483472424 #Please include channel id 
 
 char3 = [
 'Muk',
